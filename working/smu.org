@@ -6,23 +6,19 @@ ability to conceptualize banking in terms of processes, data, systems and archit
 * cover
 dear sir/madam
 
-This is regarding the position of
+This is regarding the Banking Technology and Operations facluty position in the School of Information Systems at SMU
 
-The near collapse of Knight Trading highlites the criticallity of IT and operations
+The near collapse of Knight Capital in 2012 due to an IT operational error, highlights the criticallity of IT and operations. On my  12 years in professional IT Banking career, including Morgan-Stanley, UBS and Lehman Brothers, I have observed similar events that have affected my approach on design, implementation and management of T&O systems.
 
-On my professional IT Banking career, I have had the opportunity to be involved in the architecture, design and implemtation of
-various systems and processi. Affecting several teams. 
+My profesional roles architecting and managing different IT systems  have given me the opportunity to gain exposure to the back, mid and front office banking sections which required shifting of focus and priorities: regulatory and risk control for back and mid office and rapid tools for trading and sales teams. 
 
+This exposure has also helped in getting a deeper understanding of the different banking suborganizaiton ,their systems and operational proceses which can be used to develop into teaching material as well as give real world scenarios and insights to prospective T&O professional SMU
 
-My roles have allowed me to work on all IT Operation segements. from implementing systems to detect risk in the back-office, to the mid-ofice analytical tool
-validation to fron-office proviing tools and system for trading desk to evaluate and anticipate risk and pnl expaln
+In additiona to technical planning and design involving analytics and software teams my responsibilities required liansing with trading desks and senior managment in IT, operations and complience departments. This involvment has helped in developing skills to present, promote and engage stakeholders for various Technology and operational initiatives. These skills could be utilized beyond the classrooms, allowing me to contribute to efforts to engage the industry leaders thru presentations and seminar that this position requires
 
-Beyond teaching, my experience liansing with interactive banking groups ( quant analtyics, IT, complience) has given me
-opportunity to present, promote and sell and engage. All these skills would come handy on the SMU role requiring
+On the personal side, I am an avid reader, enjoy mentoring, and making complext concepts to more accesible to understanding. My intelectual curiousity drives me to explore innovaiton in both Technology and Finance. 
 
-On the personal side, I enjoy mentoring, and bring complext subjects to wais that not are only 
-but 
-I am confident that my educational background, professional experience and personal drive continues will allow me to add value to the
-.....program and to the students
+I am confident that my educational background, professional experience and personal traits would add value to SMU and give me an opportunity to impact students to be well quipped to joining the the T&O departments banking industry  
+
 
 AR: cc enoch and steven
